@@ -330,6 +330,10 @@ tr[id$="gift"] a {
  height: 200px !important;
  min-height:200px !important;
 }
+
+.sf-menu > li > a {
+    padding: 17px !important;
+}
 /* Responsive  */
 
 @media(max-width:600px;) {
