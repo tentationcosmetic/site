@@ -1,12 +1,5 @@
 $(document).ready(function(){
-if($('.ax_productscategory').length > 1) {$('.ax_productscategory').first().addClass('accessoires').insertBefore('.info-product');}
-  
-// if(Date.now() >= 1647730800000 && Date.now() <= 1648418399000) {
-//  $('.logo').attr('src','https://raw.githubusercontent.com/evanxiia/tentation/main/tentation_spring.svg').attr('title', 'Printemps 2022');
-// }
-// if(Date.now() >= 1650146400000 && Date.now() <= 1650232799000) {
-//   $('.logo').attr('src','https://raw.githubusercontent.com/evanxiia/tentation/main/tentation_easter.svg').attr('title', 'Joyeuse Pâques');
-// }
+if($('.ax_productscategory').length > 1) {$('.ax_productscategory').first().addClass('accessoires').insertBefore('.info-product');
 
 
 // Ajout des bandeaux promotions sur les miniatures produits contenant le mot clé PROMO
