@@ -326,11 +326,11 @@ tr[id$="gift"] a {
     font-weight: 600;
     margin-top:-15px;
 }
-.produit_lie ax_productscategory_list, .produit_lie .ajax_block_product {
+/* .produit_lie ax_productscategory_list, .produit_lie .ajax_block_product {
  height: 200px !important;
  min-height:200px !important;
 }
-
+ */
 .sf-menu > li > a {
     padding: 17px !important;
 }
