@@ -335,6 +335,21 @@ tr[id$="gift"] a {
     padding: 17px !important;
 }
 
+
+/* Menu */
+
+ #header-category .wrapper-subcategories ul li a span {
+  display: block !important;
+  position: absolute !important;
+  bottom: -20px !important;
+}
+
+#header-category .wrapper-subcategories ul li:hover a span {
+  top:0 !important;
+  display:flex !important;
+}
+
+
 /* Responsive  */
 
 @media(max-width:600px;) {
