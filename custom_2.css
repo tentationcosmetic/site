@@ -357,6 +357,9 @@ tr[id$="gift"] a {
     margin-bottom:60px !important;   
 }
 
+#header-category .wrapper-subcategories ul li a:hover {
+ padding-bottom: 20px !important;   
+}
 /* Responsive  */
 
 @media(max-width:600px;) {
