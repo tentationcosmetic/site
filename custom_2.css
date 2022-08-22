@@ -349,6 +349,9 @@ tr[id$="gift"] a {
   display:flex !important;
 }
 
+#header-category .wrapper-subcategories ul li a:hover span {
+    font-size:35px !important;
+}
 
 /* Responsive  */
 
