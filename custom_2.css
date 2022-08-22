@@ -344,7 +344,7 @@ tr[id$="gift"] a {
   bottom: -20px !important;
 }
 
-#header-category .wrapper-subcategories ul li:hover a span {
+#header-category .wrapper-subcategories ul li a:hover span {
   top:0 !important;
   display:flex !important;
 }
