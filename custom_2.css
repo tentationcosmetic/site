@@ -356,7 +356,10 @@ tr[id$="gift"] a {
 #header-category .wrapper-subcategories ul.clearfix li {
     margin-bottom:60px !important;   
 }
-
+#header-category .wrapper-subcategories ul li a img {
+    border-radius: 8px;
+    border: 1px solid #b4dde0;
+}
 /* Responsive  */
 
 @media(max-width:600px;) {
