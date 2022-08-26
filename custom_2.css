@@ -358,7 +358,8 @@ tr[id$="gift"] a {
 }
 #header-category .wrapper-subcategories ul li a img {
     border-radius: 8px;
-    border: 1px solid #b4dde0;
+/*     border: 1px solid #b4dde0; */
+    border 1px solid #262a4e;
 }
 /* Responsive  */
 
