@@ -361,6 +361,10 @@ tr[id$="gift"] a {
 /*     border: 1px solid #b4dde0; */
     border 1px solid #262a4e;
 }
+
+#product #product_list li.ajax_block_product:before {
+ bottom: -40px !important;   
+}
 /* Responsive  */
 
 @media(max-width:600px;) {
