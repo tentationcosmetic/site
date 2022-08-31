@@ -365,6 +365,40 @@ tr[id$="gift"] a {
 #product #product_list li.ajax_block_product:before {
  bottom: -40px !important;   
 }
+
+
+/* doublon global.css */
+
+
+#search #product_list {
+  z-index: -10;
+  position: relative;
+}
+
+.addresses-lists {
+  z-index: -10;
+  position: relative;
+}
+
+#header-category .wrapper-subcategories ul li a span svg {
+  display: none !important;
+}
+
+#header-category .wrapper-subcategories ul li a span {
+  text-decoration:underline;
+}
+#header-category .wrapper-subcategories ul li a ~ a > .libelle {
+  display: block;
+  text-align: center;
+  font-weight: 500;
+  padding: 10px 0;
+  text-decoration: underline;
+}
+#header-category .wrapper-subcategories ul li a:hover ~ a > .libelle {
+  display: none;
+}
+
+/* fin doublon global.css */
 /* Responsive  */
 
 @media(max-width:600px;) {
