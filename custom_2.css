@@ -338,11 +338,11 @@ tr[id$="gift"] a {
 
 /* Menu */
 
- #header-category .wrapper-subcategories ul li a span {
+/*  #header-category .wrapper-subcategories ul li a span {
   display: block !important;
   position: absolute !important;
   bottom: -20px !important;
-}
+} */
 
 #header-category .wrapper-subcategories ul li a:hover span {
   top:0 !important;
