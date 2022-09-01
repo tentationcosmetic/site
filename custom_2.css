@@ -365,19 +365,9 @@ tr[id$="gift"] a {
 #product #product_list li.ajax_block_product:before {
  bottom: -40px !important;   
 }
-
-
-/* doublon global.css */
-
-
-/* #search #product_list {
-  z-index: -10;
-  position: relative;
-}
-
-.addresses-lists {
-  z-index: -10;
-  position: relative;
+/* Menu  */
+#header .ets_mm_megamenu {
+  z-index:10;
 }
 
 #header-category .wrapper-subcategories ul li a span svg {
@@ -395,10 +385,10 @@ tr[id$="gift"] a {
   text-decoration: underline;
 }
 #header-category .wrapper-subcategories ul li a:hover ~ a > .libelle {
-  display: none;
-} */
+  visibility: hidden;
+}
 
-/* fin doublon global.css */
+/* Menu */
 /* Responsive  */
 
 @media(max-width:600px;) {
