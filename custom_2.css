@@ -74,8 +74,9 @@
 }
 
 .alert-danger {
-    background-color: #b4dde0 !important;
-    border-color: #b4dde0 !important;
+    background-color: #e74c3c !important;
+    border-color: #e74c3c !important;
+    color: #fff !important;
 }
 #tunnel-message p {
     background: #FDAFD2;
