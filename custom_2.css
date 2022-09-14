@@ -417,6 +417,14 @@ tr[id$="gift"] a {
     background-color: #262a4e;   
 }
 
+#eqof_search_form input[name="eqof_search_value"] {
+    height: 50px !important;   
+}
+#eqof_search_form button[name="eqof_search_submit"] {
+    width: 50px !important;
+    height: 50px !important;
+}
+
 /* Fin Commande rapide */
 
 
