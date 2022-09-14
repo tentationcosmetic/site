@@ -387,6 +387,17 @@ tr[id$="gift"] a {
   visibility: hidden;
 }
 
+
+/* Commande rapide */
+
+.input_show_price {
+    cursor: pointer;
+}
+
+/* Fin Commande rapide */
+
+
+
 /* Menu */
 /* Responsive  */
 
