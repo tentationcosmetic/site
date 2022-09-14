@@ -403,6 +403,7 @@ tr[id$="gift"] a {
     border-radius: 10px;
     background-color: #262a4e;
     display:inline-block;
+    line-height:50px;
 }
 #easyquickorderform_container .input_show_price .checker {
     display:none;   
