@@ -392,15 +392,16 @@ tr[id$="gift"] a {
 
 #easyquickorderform_container .input_show_price {
     cursor: pointer;
-    display: flex;
-    margin: 0 auto;
     text-align: center;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: center;
-    align-items: center;
     font-size: 18px;
+    color: #fff;
+    text-align: center;
+    font-size: 18px;
+    height: 50px;
+    padding: 0px 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: #262a4e;
 }
 
 #easyquickorderform_container .title_block {
