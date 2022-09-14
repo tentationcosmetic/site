@@ -394,6 +394,12 @@ tr[id$="gift"] a {
     cursor: pointer;
 }
 
+#easyquickorderform_search .title_block {
+    font-family: 'Montserrat';   
+}
+
+
+
 /* Fin Commande rapide */
 
 
