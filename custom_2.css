@@ -390,8 +390,17 @@ tr[id$="gift"] a {
 
 /* Commande rapide */
 
-.input_show_price {
+#easyquickorderform_container .input_show_price {
     cursor: pointer;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
 }
 
 #easyquickorderform_container .title_block {
