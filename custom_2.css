@@ -402,6 +402,10 @@ tr[id$="gift"] a {
     font-weight: bold;
     border-radius: 10px;
     background-color: #262a4e;
+    display:inline-block;
+}
+#easyquickorderform_container .input_show_price .checker {
+    display:none;   
 }
 
 #easyquickorderform_container .title_block {
