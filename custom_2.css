@@ -394,7 +394,7 @@ tr[id$="gift"] a {
     cursor: pointer;
 }
 
-#easyquickorderform_search .title_block {
+#easyquickorderform_container .title_block {
     font-family: 'Montserrat';   
 }
 
