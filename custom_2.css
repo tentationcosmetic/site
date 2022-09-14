@@ -413,6 +413,10 @@ tr[id$="gift"] a {
     font-family: 'Montserrat';   
 }
 
+#eqof_results_found li .eqof_search_result_btn .eqof_select_btn {
+    background-color: #262a4e;   
+}
+
 /* Fin Commande rapide */
 
 
