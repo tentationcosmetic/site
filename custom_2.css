@@ -395,7 +395,7 @@ tr[id$="gift"] a {
     text-align: center;
     font-size: 18px;
     color: #fff;
-    text-align: center;
+    float:right;
     font-size: 18px;
     height: 50px;
     padding: 0px 10px;
