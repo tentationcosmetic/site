@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    if ($('.ax_productscategory').length > 1) {
+//     if ($('.ax_productscategory').length > 1) {
         $('.ax_productscategory').first().addClass('accessoires').insertBefore('.info-product');
 
 
@@ -12,7 +12,7 @@ $(document).ready(function() {
                 }
             }
         }
-    }
+//     }
 
     // Ajout d'un bouton pour vider le panier
     if ($('#cart_summary').length >= 1) {
