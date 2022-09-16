@@ -253,7 +253,7 @@ body.step_summary #tunnel-message {
 }
 /* .category-promos #product_list li.ajax_block_product::after,   */
 #product_list .promo::after {
-  content: "Promo !";
+  content: "PROMO !";
   position: absolute;
   top: 0;
   left: 5px;
