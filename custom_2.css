@@ -218,9 +218,9 @@ body.step_summary #tunnel-message {
 .accessoires #product_list li.ajax_block_product {
     min-height:250px;
 }
-.accessoires .content_price, .accessoires .button-container, .accessoires .page-heading {
+/* .accessoires .content_price, .accessoires .button-container, .accessoires .page-heading {
     display:none !important;   
-}
+} */
 #header-category .wrapper-subcategories ul li a:hover {
  transform:scale(1.2);
     transition-duration: .3s;
