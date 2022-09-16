@@ -1,6 +1,6 @@
 $(document).ready(function() {
 //     if ($('.ax_productscategory').length > 1) {
-        $('.ax_productscategory').first().addClass('accessoires').insertBefore('.info-product');
+//         $('.ax_productscategory').first().addClass('accessoires').insertBefore('.info-product');
 
 
         // Ajout des bandeaux promotions sur les miniatures produits contenant le mot clé PROMO
