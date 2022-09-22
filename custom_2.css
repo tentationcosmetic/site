@@ -388,7 +388,7 @@ tr[id$="gift"] a {
 }
 
 
-#cms-11 body:before {
+.cms-11 body:before {
  background:none !important;   
 }
 
