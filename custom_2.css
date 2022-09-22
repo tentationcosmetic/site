@@ -388,6 +388,10 @@ tr[id$="gift"] a {
 }
 
 
+#cms-11 body:before {
+ background:none !important;   
+}
+
 /* Commande rapide */
 
 #easyquickorderform_container .input_show_price {
