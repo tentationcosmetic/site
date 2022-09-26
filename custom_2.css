@@ -387,6 +387,12 @@ tr[id$="gift"] a {
   visibility: hidden;
 }
 
+.produit_lie #product_list .promo::after {
+    font-size: 10px !important;
+}
+
+
+
 /* Commande rapide */
 
 #easyquickorderform_container .input_show_price {
