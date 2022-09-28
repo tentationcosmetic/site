@@ -37,12 +37,7 @@ $(document).ready(function() {
 
     });
         
-//     Autostart instagram
         
-        $('window').on('load', function() {
-                $('.fXIG0').click();
-        });
-
     $('tr[id$="gift"] a').attr('href', '#');
 
 //     $("<div class='page-subheading' data-axseo-oldtag='h3'>Vous avez déjà commandé chez nous ? <br> <br>Votre compte existe déjà ! <br> <br><a class='cauth-btn btn btn-lg btn-block btn-blue' href='https://drive.google.com/file/d/1OfAPkjT0Lft38dbDRYpbQp_Ii9T39qp1/view?usp=sharing' target='_blank'>Découvrez comment vous connecter !</a></p>").insertBefore("#authentication .page-subheading:first-child");
