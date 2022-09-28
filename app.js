@@ -36,6 +36,12 @@ $(document).ready(function() {
         }
 
     });
+        
+//     Autostart instagram
+        
+        $('window').on('load', function() {
+                $('.fXIG0').click();
+        });
 
     $('tr[id$="gift"] a').attr('href', '#');
 
