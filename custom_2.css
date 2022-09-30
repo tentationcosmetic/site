@@ -430,6 +430,10 @@ tr[id$="gift"] a {
     height: 50px !important;
 }
 
+#quick-order-form #empty_form_warning p { 
+ display:block !important;   
+}
+
 /* Fin Commande rapide */
 
 
