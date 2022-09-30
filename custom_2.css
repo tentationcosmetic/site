@@ -440,6 +440,10 @@ tr[id$="gift"] a {
     font-weight:bold;
 }
 
+.eqof_product_price small {
+    text-transform: uppercase;
+}
+
 /* Fin Commande rapide */
 
 
